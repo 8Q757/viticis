@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **viticis/viticis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=viticis&hide=html,css&layout=compact&hide_border=true)
+![State](https://github-readme-stats.vercel.app/api?username=viticis&hide_title=true&show_icons=true&hide_border=true)
+
+
+![GitHub Game of Life](https://github4life.herokuapp.com/viticis.gif)
