@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![State](https://github-readme-stats.vercel.app/api?username=viticis&hide_title=true&show_icons=true&hide_border=true)
 
 
-![GitHub Game of Life](https://github4life.herokuapp.com/viticis.gif)
+<!--![GitHub Game of Life](https://github4life.herokuapp.com/viticis.gif)-->
